@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:context=".MainActivity">
+
+    <item android:id="@+id/action_name"
+          android:title="@string/action_name"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+
+    <item android:id="@+id/action_discover"
+          android:title="@string/action_discover"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/action_stop_discovery"
+          android:title="@string/action_stop_discovery"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/action_create_group"
+          android:title="@string/action_create_group"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/action_remove_group"
+          android:title="@string/action_remove_group"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+</menu>

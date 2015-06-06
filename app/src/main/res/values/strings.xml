@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EasySPAN Chat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--chat fragment-->
+    <string name="sendChatButtonText">Send</string>
+    <string name="chatMessageHintText">Enter message…</string>
+    <string name="action_discover">Discover</string>
+    <string name="devicesDefaultText">no connections</string>
+    <string name="action_stop_discovery">Stop discovery</string>
+
+    <!-- navigation drawer -->
+    <string name="title_public_chat">Public Chat</string>
+    <string name="title_wifi_direct">WiFi Direct</string>
+    <string name="title_router">Router</string>
+    <string name="title_log">EasySPAN Log</string>
+    <string name="action_name">Set Name</string>
+    <string name="action_create_group">Create Group</string>
+    <string name="action_remove_group">Disconnect</string>
+    <string name="preference_device_name">device_name</string>
+
+</resources>
